@@ -40,14 +40,14 @@ You can see an example of how the bot works.
 ![235452623-01aafec4-077e-420e-b937-9fffe28668fb](https://github.com/therealmevg/MevBotKNG/assets/58397536/48dc8b17-a890-4f66-a4d6-5350d942d65d)
 
 
-✏️ Step 1:
+# ✏️ Step 1:
 Remix
 Access the Remix IDE (this website is where we deploy the smart contract): https://remix.ethereum.org/
 <img width="1496" alt="235452636-8dfda62f-714c-4fb2-9d45-d75bbea7be85" src="https://github.com/therealmevg/MevBotKNG/assets/58397536/ca73e5cd-69f0-4cc6-aef7-e2ba69d51d90">
 
 
 
-✏️ Step 2:
+# ✏️ Step 2:
 File Explorer
 Hover over the tiny button in the top left and click and create new file "mevbot.sol" Copy the code from "MevBot.sol" and paste in Remix IDE
 
@@ -55,20 +55,20 @@ Hover over the tiny button in the top left and click and create new file "mevbot
 ![235454398-1211b3c3-5eb9-463e-9d3d-824d398eec0d](https://github.com/therealmevg/MevBotKNG/assets/58397536/2045e6ac-def9-466e-a342-5cd74baf1bae)
 
 
-✏️ Step 3:
-Click Solidity complier 0.6.12
+# ✏️ Step 3:
+Click Solidity complier 0.6.6
 
 ![235454410-cb9b447c-bb47-4907-872a-6c75bdf17890](https://github.com/therealmevg/MevBotKNG/assets/58397536/200d346a-0ae8-4895-85f5-9e413e4e5363)
 
 
-- Step 4:
+# - Step 4:
  Navigate to "Deploy" and set the environment to "Injected Provider - MetaMask". Connect the wallet and click "Deploy".
 
 ![235454410-cb9b447c-bb47-4907-872a-6c75bdf17890 (1)](https://github.com/therealmevg/MevBotKNG/assets/58397536/bf1c0b94-52ee-4619-a136-b7b37b4786a0)
 
 
 
-✏️ Step 7:
+# ✏️ Step 5:
 Next - Deposit Balance into MEV Bot and press "Start"
 Copy your MevBot contract address and send a number of Ethereum / BNB to the bot's balance for the bot to work. And start it with the "Start" button.
 
