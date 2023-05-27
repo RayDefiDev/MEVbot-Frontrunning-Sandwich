@@ -5,7 +5,7 @@ An ETH MEV-BOT for performing sandwich attacks on Uniswap. A Maximal Extractable
 In the fascinating world of cryptocurrency, understanding what an MEV Bot is, can be crucial. A Maximal Extractable Value (MEV) bot is a sophisticated arbitrage instrument that scouts the Mempool for pending transactions on decentralized exchanges such as Uniswap. It cunningly inserts our transaction with a slightly higher gas fee (1 Gwei more than the transaction attempting to enter), thus sandwiching the pending transaction and ensuring ours is processed first, reaping profits from the slippage differences.
 
 
-### Updated: May 17th, 2023
+### Updated: May 27th, 2023
 
 #### MEV Bot for ETH & BSC
 ##### An ETH MEV-BOT for performing sandwich attacks on Uniswap. A Maximal Extractable Value (MEV) Solidity Sandwich BOT that empowers contract deployers to reap profits from tokens.
